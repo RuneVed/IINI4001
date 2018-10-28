@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Dyr</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="avslutt">Avslutt</string>
+    <string name="dyr1">Elefant</string>
+    <string name="dyr2">Giraff</string>
+    <string name="dyr3">Løve</string>
+    <string name="dyr4">Flodhest</string>
+    <string name="dyr5">Sebra</string>
+    <string name="dyrb1">Stor og tung. Har lang snabel og store ører. Kan brukes til  ridedyr og arbeidshest.</string>
+    <string name="dyrb2">Lang hals og lange bein.</string>
+    <string name="dyrb3">Farlig. Spiser andre dyr.</string>
+    <string name="dyrb4">Stor og lever i vann.</string>
+    <string name="dyrb5">Svart- og hvit-stripet hest.</string>
+    <string-array name="dyrenavn">
+        <item>@string/dyr1</item>
+        <item>@string/dyr2</item>
+        <item>@string/dyr3</item>
+        <item>@string/dyr4</item>
+        <item>@string/dyr5</item>
+    </string-array>
+    <string-array name="dyrebeskrivelse">
+        <item>@string/dyrb1</item>
+        <item>@string/dyrb2</item>
+        <item>@string/dyrb3</item>
+        <item>@string/dyrb4</item>
+        <item>@string/dyrb5</item>
+    </string-array>
+    <array name="bilder">
+        <item>@drawable/dyr1 </item>
+        <item>@drawable/dyr2</item>
+        <item>@drawable/dyr3</item>
+        <item>@drawable/dyr4</item>
+        <item>@drawable/dyr5</item>
+    </array>
+    <array name="ikoner">
+        <item>@drawable/dyr1_icon</item>
+        <item>@drawable/dyr2_icon</item>
+        <item>@drawable/dyr3_icon</item>
+        <item>@drawable/dyr4_icon</item>
+        <item>@drawable/dyr5_icon</item>
+    </array>
+</resources>
