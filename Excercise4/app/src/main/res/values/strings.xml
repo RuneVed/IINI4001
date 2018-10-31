@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Excercise4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ov4">Nobelprisvinnere</string>
+    <string name="next">Neste</string>
+    <string name="previous">Forrige</string>
+    <string name="exit">Avslutt</string>
+</resources>
